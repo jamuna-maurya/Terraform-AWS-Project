@@ -190,19 +190,22 @@ ec2_public_ip = xx.xx.xx.xx
 
 ### Terraform Apply Success
 
-![alt text](image-1.png)
+<img width="1552" height="1512" alt="image" src="https://github.com/user-attachments/assets/539872a8-fb32-41c4-812d-3ad7146fab03" />
+
+<img width="1938" height="946" alt="image" src="https://github.com/user-attachments/assets/1661a42c-90a9-4d23-8c11-0c51dd4300e4" />
 
 ### AWS VPC
 
-*Add screenshot here*
+*Add screenshot her
 
 ### AWS EC2 Instance
 
-*Add screenshot here*
+<img width="2802" height="388" alt="image" src="https://github.com/user-attachments/assets/a9d71df3-b364-4dea-8227-5c56a510f3c3" />
+
 
 ### S3 Backend Bucket
 
-*Add screenshot here*
+
 
 ### DynamoDB Lock Table
 
