@@ -196,7 +196,8 @@ ec2_public_ip = xx.xx.xx.xx
 
 ### AWS VPC
 
-*Add screenshot her
+<img width="2256" height="268" alt="image" src="https://github.com/user-attachments/assets/19873cb6-4bc6-43f1-a906-d897431d18be" />
+
 
 ### AWS EC2 Instance
 
@@ -205,11 +206,13 @@ ec2_public_ip = xx.xx.xx.xx
 
 ### S3 Backend Bucket
 
+<img width="2114" height="568" alt="image" src="https://github.com/user-attachments/assets/3d3a930d-7531-4120-9d10-9d311456ed40" />
 
 
 ### DynamoDB Lock Table
 
-*Add screenshot here*
+<img width="2724" height="600" alt="image" src="https://github.com/user-attachments/assets/e18fdcd7-6d9b-4581-8648-9bffa62ad7ed" />
+
 
 ---
 
